@@ -1,0 +1,12 @@
+# 编译 / 测试过程中自动生成的产物，不入库
+test/VictimApp.exe
+test/fakeprot/
+test/*.json
+test/*.txt
+test/*.png
+*.pdb
+*.log
+
+# 临时目录
+bin/
+obj/
